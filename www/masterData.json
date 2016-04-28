@@ -1,0 +1,28 @@
+{
+    "players": {
+	"Aphromoo": {
+	    "Alistar": {
+		"championLevel": 5,
+		"championPoints": 3000,
+		"highestGrade": "S+"
+	    },
+	    "Caitlyn": {
+		"championLevel": 3,
+		"championPoints": 100,
+		"highestGrade": "C"
+	    }
+	},
+	"Doublelift": {
+	    "Alistar": {
+		"championLevel": 2,
+		"championPoints": 1000,
+		"highestGrade": "A"
+	    },
+	    "Caitlyn": {
+		"championLevel": 5,
+		"championPoints": 10000,
+		"highestGrade": "D"
+	    }
+	}
+    }
+}
